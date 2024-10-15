@@ -1,3 +1,1 @@
-# boom-code
-# boom-code
-# boom-code
+# OTP code email template
